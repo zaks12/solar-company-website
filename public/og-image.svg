@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <rect width="1200" height="630" fill="#101D32"/>
+  <circle cx="600" cy="260" r="80" fill="#F5A623"/>
+  <g stroke="#101D32" stroke-width="16" stroke-linecap="round">
+    <line x1="600" y1="140" x2="600" y2="170"/>
+    <line x1="600" y1="350" x2="600" y2="380"/>
+    <line x1="480" y1="260" x2="510" y2="260"/>
+    <line x1="690" y1="260" x2="720" y2="260"/>
+    <line x1="520" y1="180" x2="540" y2="200"/>
+    <line x1="660" y1="320" x2="680" y2="340"/>
+    <line x1="680" y1="180" x2="660" y2="200"/>
+    <line x1="540" y1="320" x2="520" y2="340"/>
+  </g>
+  <text x="600" y="430" text-anchor="middle" font-family="Arial, sans-serif" font-size="64" font-weight="700" fill="#F7F8FA">Zacks Solar</text>
+  <text x="600" y="490" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" fill="#9CADC8">Solar Energy Solutions for Nigeria</text>
+  <text x="600" y="560" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" fill="#6B7B96">Demo website by Zarkode Digital Solutions</text>
+</svg>
